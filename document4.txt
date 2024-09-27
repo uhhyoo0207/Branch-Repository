@@ -1,0 +1,6 @@
+print("uhhyoo0207")
+print("uhhyoo0207")
+print("uhhyoo0207")
+print("uhhyoo0207")
+print("uhhyoo0207")
+print("uhhyoo0207")
