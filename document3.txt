@@ -1,4 +1,4 @@
-print("uhhyoo")
+컴퓨터공학과
 print("uhhyoo")
 print("uhhyoo")
 print("uhhyoo")
